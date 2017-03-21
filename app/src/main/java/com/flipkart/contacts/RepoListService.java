@@ -1,5 +1,7 @@
 package com.flipkart.contacts;
 
+import com.flipkart.contacts.db.Contact;
+
 import java.util.List;
 
 import retrofit.http.GET;
