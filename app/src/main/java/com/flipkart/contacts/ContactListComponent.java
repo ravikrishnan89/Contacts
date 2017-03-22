@@ -7,6 +7,5 @@ import dagger.Subcomponent;
  */
 @Subcomponent(modules = {ContactListModule.class})
 public interface ContactListComponent {
-
     void inject(ContactListActivity contactListActivity);
 }
